@@ -94,6 +94,11 @@ body, html {
   font-size: 14px;
   color: #2A2F5B; }
 
+  .notification {
+    display: none !important;
+}
+
+
 a {
   color: #1572E8;
   text-decoration: none !important; }
